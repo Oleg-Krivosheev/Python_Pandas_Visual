@@ -14,4 +14,6 @@ https://github.com/maartenbreddels/ipyvolume
 
 https://gist.github.com/5agado/ee95008f25730d04bfd0eedd5c36f0ee
 
-http://nbviewer.jupyter.org/github/ipython/ipython/blob/1.x/examples/notebooks/Part%203%20-%20Plotting%20with%20Matplotlib.ipynb
+https://docs.continuum.io/accelerate/profiling
+
+https://www.dataquest.io/blog/python-data-visualization-libraries/
