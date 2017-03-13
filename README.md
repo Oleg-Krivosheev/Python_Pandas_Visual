@@ -1,5 +1,6 @@
 # Python_Pandas_Visual
-Python/Pandas visualization
+
+Python/Pandas visualization, ANOVA meetup on Sat, 11 Mar, 2017
 
 Some useful links used in preparation
 
