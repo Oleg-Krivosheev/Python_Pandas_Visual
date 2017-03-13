@@ -1,6 +1,8 @@
 # Python_Pandas_Visual
 Python/Pandas visualization
 
+Some useful links used in preparation
+
 https://opensource.com/article/17/2/3-top-machine-learning-libraries-python
 
 http://seaborn.pydata.org/
